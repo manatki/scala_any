@@ -27,19 +27,19 @@ Current list of topics:
 
 | Topic   | Admins                | Description                            
 |---------|-----------------------|----------------------------------------
-| Main    |[optician_owl](optician_owl.t.me),[aleksei_t](aleksei_t.t.me),[pomadchin](pomadchin.t.me),[skucherenko](skucherenko.t.me),[funfunfine](funfunfine.t.me),[catostrophe](catostrophe.t.me),[fxdx0](fxdx0.t.me)| general discussions
-| Meta    |[oli_kitty](oli_kitty.t.me), Vasiliy,[optician_owl](optician_owl.t.me),[clayrat](clayrat.t.me),[AntonTrunov](AntonTrunov.t.me),[aleksei_t](aleksei_t.t.me),[skucherenko](skucherenko.t.me),[catostrophe](catostrophe.t.me),[dos65](dos65.t.me)    | community, admin, rules, etc...
+| Main    |[optician_owl](optician_owl.t.me), [aleksei_t](aleksei_t.t.me), [pomadchin](pomadchin.t.me), [skucherenko](skucherenko.t.me), [funfunfine](funfunfine.t.me), [catostrophe](catostrophe.t.me), [fxdx0](fxdx0.t.me)| general discussions
+| Meta    |[oli_kitty](oli_kitty.t.me), Vasiliy,[optician_owl](optician_owl.t.me), [clayrat](clayrat.t.me), [AntonTrunov](AntonTrunov.t.me), [aleksei_t](aleksei_t.t.me), [skucherenko](skucherenko.t.me), [catostrophe](catostrophe.t.me), [dos65](dos65.t.me)    | community, admin, rules, etc...
 | Akka    |[zeehond](zeehond.t.me)                       | Akka and Lightbend universe 
 | Cats    |[vnikita](vnikita.t.me)                      | Cats and Typelevel universe 
-| Data    |[optician_owl](optician_owl.t.me),[pomadchin](pomadchin.t.me)                       | Spark, Flink, Hadoop, other Big Data
+| Data    |[optician_owl](optician_owl.t.me), [pomadchin](pomadchin.t.me)                       | Spark, Flink, Hadoop, other Big Data
 | Events  |[oli_kitty](oli_kitty.t.me)             | Talks, events, conferences, meetups knowledge and opinion sharing
-| FP      |[clayrat](clayrat.t.me),[AntonTrunov](AntonTrunov.t.me),[skucherenko](skucherenko.t.me)                       | Functional Programming, Programming Language Theory, Category Theory, etc.
+| FP      |[clayrat](clayrat.t.me), [AntonTrunov](AntonTrunov.t.me), [skucherenko](skucherenko.t.me)                       | Functional Programming, Programming Language Theory, Category Theory, etc.
 | Izumi   |[kai_neko](kai_neko.t.me)                       | Izumi framework (https://github.com/7mind/izumi) and other products by 7mind team
-| Java    |[zeehond](zeehond.t.me),[fellrond](fellrond.t.me),[fxdx0](fxdx0.t.me)                       | JVM integration and Java ecosystem
+| Java    |[zeehond](zeehond.t.me), [fellrond](fellrond.t.me), [fxdx0](fxdx0.t.me)                       | JVM integration and Java ecosystem
 | Jobs    |Vasiliy,[aleksei_t](aleksei_t.t.me)                       | 
-| Learn.  |[vnikita](vnikita.t.me),[funfunfine](funfunfine.t.me),[susliko](susliko.t.me),[say_nyaa](say_nyaa.t.me)                       | Noob questions, request some resources to lear
-| Scala 3 |[kai_neko](kai_neko.t.me), [odomontois](odomontois.t.me),[catostrophe](catostrophe.t.me)
-| Tools   |[dos65](dos65.t.me),[fxdx0](fxdx0.t.me)                      | Everything about SBT, Mill, Metals, IDEA 
-| Tofu    |[odomontois](odomontois.t.me),[vnikita](vnikita.t.me),[funfunfine](funfunfine.t.me),[susliko](susliko.t.me)                       | General discussion of the Tofu (https://github.com/tofu-tf/tofu) toolset
-| ZIO     |[fellrond](fellrond.t.me),[say_nyaa](say_nyaa.t.me)                       | Discussion of the ZIO (https://zio.dev/) ecosystem 
+| Learn.  |[vnikita](vnikita.t.me), [funfunfine](funfunfine.t.me), [susliko](susliko.t.me), [say_nyaa](say_nyaa.t.me)                       | Noob questions, request some resources to lear
+| Scala 3 |[kai_neko](kai_neko.t.me), [odomontois](odomontois.t.me), [catostrophe](catostrophe.t.me)
+| Tools   |[dos65](dos65.t.me), [fxdx0](fxdx0.t.me)                      | Everything about SBT, Mill, Metals, IDEA 
+| Tofu    |[odomontois](odomontois.t.me), [vnikita](vnikita.t.me), [funfunfine](funfunfine.t.me), [susliko](susliko.t.me)                       | General discussion of the Tofu (https://github.com/tofu-tf/tofu) toolset
+| ZIO     |[fellrond](fellrond.t.me), [say_nyaa](say_nyaa.t.me)                       | Discussion of the ZIO (https://zio.dev/) ecosystem 
 
