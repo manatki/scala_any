@@ -27,10 +27,10 @@ Current list of topics:
 
 | Topic   | Admins                | Description                            
 |---------|-----------------------|----------------------------------------
-| Main    |[optician_owl](https://optician_owl.t.me), [aleksei_t](https://aleksei_t.t.me), [pomadchin](https://pomadchin.t.me), [skucherenko](https://skucherenko.t.me), [funfunfine](https://funfunfine.t.me), [catostrophe](https://catostrophe.t.me), [fxdx0](https://fxdx0.t.me)| general discussions
+| Main    |[optician_owl](https://optician_owl.t.me), [aleksei_t](https://aleksei_t.t.me), [pomadchin](https://pomadchin.t.me), [skucherenko](https://skucherenko.t.me), [funfunfine](https://funfunfine.t.me), [fxdx0](https://fxdx0.t.me)| general discussions
 | Meta    |[oli_kitty](https://oli_kitty.t.me), Vasiliy,[optician_owl](https://optician_owl.t.me), [clayrat](https://clayrat.t.me), [AntonTrunov](https://AntonTrunov.t.me), [skucherenko](https://skucherenko.t.me), [catostrophe](https://catostrophe.t.me), [dos65](https://dos65.t.me)    | community, admin, rules, etc...
 | Akka    |[zeehond](https://zeehond.t.me), [aleksei_t](https://aleksei_t.t.me)                       | Akka and Lightbend universe 
-| Cats    |[vnikita](https://vnikita.t.me)                      | Cats and Typelevel universe 
+| Cats    |[vnikita](https://vnikita.t.me), [catostrophe](https://catostrophe.t.me)                      | Cats and Typelevel universe 
 | Data    |[optician_owl](https://optician_owl.t.me), [pomadchin](https://pomadchin.t.me)                       | Spark, Flink, Hadoop, other Big Data
 | Events  |[oli_kitty](https://oli_kitty.t.me), [pomadchin](https://pomadchin.t.me)             | Talks, events, conferences, meetups knowledge and opinion sharing
 | FP      |[clayrat](https://clayrat.t.me), [AntonTrunov](https://AntonTrunov.t.me), [skucherenko](https://skucherenko.t.me)                       | Functional Programming, Programming Language Theory, Category Theory, etc.
