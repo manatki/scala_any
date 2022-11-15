@@ -32,7 +32,7 @@ Current list of topics:
 | Akka    |[zeehond](zeehond.t.me)                       | Akka and Lightbend universe 
 | Cats    |[vnikita](vnikita.t.me)                      | Cats and Typelevel universe 
 | Data    |[optician_owl](optician_owl.t.me), [pomadchin](pomadchin.t.me)                       | Spark, Flink, Hadoop, other Big Data
-| Events  |[oli_kitty](oli_kitty.t.me)             | Talks, events, conferences, meetups knowledge and opinion sharing
+| Events  |[oli_kitty](oli_kitty.t.me), [pomadchin](pomadchin.t.me)             | Talks, events, conferences, meetups knowledge and opinion sharing
 | FP      |[clayrat](clayrat.t.me), [AntonTrunov](AntonTrunov.t.me), [skucherenko](skucherenko.t.me)                       | Functional Programming, Programming Language Theory, Category Theory, etc.
 | Izumi   |[kai_neko](kai_neko.t.me)                       | Izumi framework (https://github.com/7mind/izumi) and other products by 7mind team
 | JVM     |[zeehond](zeehond.t.me), [fellrond](fellrond.t.me), [fxdx0](fxdx0.t.me)                       | JVM integration and Java ecosystem
