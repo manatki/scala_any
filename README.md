@@ -1,2 +1,2 @@
-# scala_any
-Self-description of scala_any.t.me community
+# Scala Any
+Self-description of [scala_any community](https://scala_any.t.me)
