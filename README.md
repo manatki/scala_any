@@ -35,7 +35,7 @@ Current list of topics:
 | Events  |[oli_kitty](oli_kitty.t.me)             | Talks, events, conferences, meetups knowledge and opinion sharing
 | FP      |[clayrat](clayrat.t.me), [AntonTrunov](AntonTrunov.t.me), [skucherenko](skucherenko.t.me)                       | Functional Programming, Programming Language Theory, Category Theory, etc.
 | Izumi   |[kai_neko](kai_neko.t.me)                       | Izumi framework (https://github.com/7mind/izumi) and other products by 7mind team
-| Java    |[zeehond](zeehond.t.me), [fellrond](fellrond.t.me), [fxdx0](fxdx0.t.me)                       | JVM integration and Java ecosystem
+| JVM     |[zeehond](zeehond.t.me), [fellrond](fellrond.t.me), [fxdx0](fxdx0.t.me)                       | JVM integration and Java ecosystem
 | Jobs    |Vasiliy,[aleksei_t](aleksei_t.t.me)                       | 
 | Learn.  |[vnikita](vnikita.t.me), [funfunfine](funfunfine.t.me), [susliko](susliko.t.me), [say_nyaa](say_nyaa.t.me)                       | Noob questions, request some resources to lear
 | Scala 3 |[kai_neko](kai_neko.t.me), [odomontois](odomontois.t.me), [catostrophe](catostrophe.t.me)
