@@ -27,7 +27,7 @@ Current list of topics:
 
 | Topic   | Admins                | Description                            
 |---------|-----------------------|----------------------------------------
-| Main    |[optician_owl](https://optician_owl.t.me), [aleksei_t](https://aleksei_t.t.me), [pomadchin](https://pomadchin.t.me), [skucherenko](https://skucherenko.t.me), [funfunfine](https://funfunfine.t.me), [fxdx0](https://fxdx0.t.me)| general discussions
+| Main    |[optician_owl](https://optician_owl.t.me), [aleksei_t](https://aleksei_t.t.me), [pomadchin](https://pomadchin.t.me), [skucherenko](https://skucherenko.t.me), [funfunfine](https://funfunfine.t.me), [fxdx0](https://fxdx0.t.me), [sugakandrey](sugakandrey.t.me)| general discussions
 | Meta    |[oli_kitty](https://oli_kitty.t.me), Vasiliy,[optician_owl](https://optician_owl.t.me), [clayrat](https://clayrat.t.me), [AntonTrunov](https://AntonTrunov.t.me), [skucherenko](https://skucherenko.t.me), [catostrophe](https://catostrophe.t.me), [dos65](https://dos65.t.me)    | community, admin, rules, etc...
 | Akka    |[zeehond](https://zeehond.t.me), [aleksei_t](https://aleksei_t.t.me)                       | Akka and Lightbend universe 
 | Cats    |[vnikita](https://vnikita.t.me), [catostrophe](https://catostrophe.t.me)                      | Cats and Typelevel universe 
@@ -39,7 +39,7 @@ Current list of topics:
 | Jobs    |Vasiliy,[aleksei_t](https://aleksei_t.t.me)                       | 
 | Learn.  |[vnikita](https://vnikita.t.me), [funfunfine](https://funfunfine.t.me), [susliko](https://susliko.t.me), [say_nyaa](https://say_nyaa.t.me)                       | Noob questions, request some resources to lear
 | Scala 3 |[kai_neko](https://kai_neko.t.me), [odomontois](https://odomontois.t.me), [catostrophe](https://catostrophe.t.me)
-| Tools   |[dos65](https://dos65.t.me), [fxdx0](https://fxdx0.t.me)                      | Everything about SBT, Mill, Metals, IDEA 
+| Tools   |[dos65](https://dos65.t.me), [fxdx0](https://fxdx0.t.me), [sugakandrey](sugakandrey.t.me)                      | Everything about SBT, Mill, Metals, IDEA 
 | Tofu    |[odomontois](https://odomontois.t.me), [vnikita](https://vnikita.t.me), [funfunfine](https://funfunfine.t.me), [susliko](https://susliko.t.me)                       | General discussion of the Tofu (https://github.com/tofu-tf/tofu) toolset
 | ZIO     |[fellrond](https://fellrond.t.me), [say_nyaa](https://say_nyaa.t.me)                       | Discussion of the ZIO (https://zio.dev/) ecosystem 
 
