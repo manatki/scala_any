@@ -38,7 +38,7 @@ Current list of topics:
 | JVM     |[zeehond](https://zeehond.t.me), [fellrond](https://fellrond.t.me), [fxdx0](https://fxdx0.t.me)                       | JVM integration and Java ecosystem
 | Jobs    |Vasiliy,[aleksei_t](https://aleksei_t.t.me)                       | 
 | Learn.  |[vnikita](https://vnikita.t.me), [funfunfine](https://funfunfine.t.me), [susliko](https://susliko.t.me), [say_nyaa](https://say_nyaa.t.me)                       | Noob questions, request some resources to lear
-| Scala 3 |[kai_neko](https://kai_neko.t.me), [odomontois](https://odomontois.t.me), [catostrophe](https://catostrophe.t.me), , [sugakandrey](sugakandrey.t.me)
+| Scala 3 |[kai_neko](https://kai_neko.t.me), [odomontois](https://odomontois.t.me), [catostrophe](https://catostrophe.t.me), [sugakandrey](sugakandrey.t.me)
 | Tools   |[dos65](https://dos65.t.me), [fxdx0](https://fxdx0.t.me), [sugakandrey](sugakandrey.t.me)                      | Everything about SBT, Mill, Metals, IDEA 
 | Tofu    |[odomontois](https://odomontois.t.me), [vnikita](https://vnikita.t.me), [funfunfine](https://funfunfine.t.me), [susliko](https://susliko.t.me)                       | General discussion of the Tofu (https://github.com/tofu-tf/tofu) toolset
 | ZIO     |[fellrond](https://fellrond.t.me), [say_nyaa](https://say_nyaa.t.me)                       | Discussion of the ZIO (https://zio.dev/) ecosystem 
